@@ -1,0 +1,30 @@
+html {
+  margin: 0px;
+  height: 100%;
+
+  background-image: url("./assets/background.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  margin: 0px;
+  /* background-color: #223843; */
+}
+
+a:link {
+  color: #DBD3D8;
+}
+
+a:visited {
+  color: #d8b4a0;
+}
+
+a:hover {
+  color: #d8b4a0;
+}
+
+a:active {
+  color: #d8b4a0;
+}

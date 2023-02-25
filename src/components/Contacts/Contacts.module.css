@@ -1,0 +1,25 @@
+.mainContainer {
+  margin-top: 680px;
+}
+
+.title {
+  padding: 2.5px;
+  font-size: 18px;
+}
+
+.link {
+  padding: 2px 0;
+  width: min-content;
+}
+
+.contactsContainer {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+}
